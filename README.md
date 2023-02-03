@@ -1,4 +1,4 @@
-# Advanced Database NTUA
+# Advanced Topics in Databases 2022-2023 NTUA
 
 ## Installation
 
