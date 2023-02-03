@@ -22,7 +22,7 @@ ssh (master vm connecting string)
 2.Start Hadoop and Spark in master vm:
 
 ```bash
-start-hadoop.sh
+start-dfs.sh
 ```
 ```bash
 start-master.sh
