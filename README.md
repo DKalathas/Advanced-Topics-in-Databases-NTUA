@@ -62,3 +62,8 @@ spark-submit (filename)
 
 See the results in terminal 
 
+### Team members:
+
+Dimitris Kalathas, Dimitris Mpakalis
+
+### The assignments language is greek.
