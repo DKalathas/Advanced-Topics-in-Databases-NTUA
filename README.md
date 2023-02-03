@@ -64,6 +64,6 @@ See the results in terminal
 
 ### Team members:
 
-Dimitris Kalathas, Dimitris Mpakalis
+Dimitris Kalathas, Dimitris Βakalis
 
 ### The assignments language is greek.
