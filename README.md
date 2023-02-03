@@ -37,7 +37,7 @@ hadoop fs -put ./yellow_tripdata_2022-01.parquet hdfs://master:9000/par/yellow_t
 4.Start a worker in master:
 
 ```bash
-start-worker.sh
+start-worker.sh spark://192.168.0.2:7077
 ```
 5.Start a worker in slave:
 
@@ -47,7 +47,7 @@ inside master vm
 ssh (slave vm connection string)
 ```
 ```bash
-start-worker.sh
+start-worker.sh spark://192.168.0.2:7077
 ```
 
 6.Submit task in Spark environment:
