@@ -17,7 +17,7 @@ Third install Spark with pdf adove or follow the link -> [Spark](https://sparkby
 1.Connect to master vm:
 
 ```bash
-ssh (master vm connecting string)
+ssh (master vm connection string)
 ```
 2.Start Hadoop and Spark in master vm:
 
@@ -44,7 +44,7 @@ start-worker.sh
 inside master vm
 
 ```bash
-ssh (slave vm connecting string)
+ssh (slave vm connection string)
 ```
 ```bash
 start-worker.sh
