@@ -4,7 +4,7 @@
 
 Firts of all, you must have a local network with 2 or more vms connected.
 
-For Installation Hadoop and Spark follow the steps:
+To install Hadoop and Spark follow the steps below:
 
 First install Hadoop follow the link -> [Hadoop](https://sparkbyexamples.com/hadoop/apache-hadoop-installation/)
 
