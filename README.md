@@ -12,7 +12,7 @@ Then, set up Yarn Cluster follow the link -> [Yarn](https://sparkbyexamples.com/
 
 Finally, install Spark with pdf adove or follow the link -> [Spark](https://sparkbyexamples.com/spark/spark-setup-on-hadoop-yarn/)
 
-## How to run (with 2 workers)
+## How to execute the program (with 2 workers)
 
 1.Connect to master vm:
 
