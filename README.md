@@ -6,11 +6,11 @@ First of all, you must have a local network with 2 or more vms connected.
 
 To install Hadoop and Spark follow the steps below:
 
-First install Hadoop follow the link -> [Hadoop](https://sparkbyexamples.com/hadoop/apache-hadoop-installation/)
+First, install Hadoop follow the link -> [Hadoop](https://sparkbyexamples.com/hadoop/apache-hadoop-installation/)
 
-Second set up Yarn Cluster follow the link -> [Yarn](https://sparkbyexamples.com/hadoop/yarn-setup-and-run-map-reduce-program/)
+Then, set up Yarn Cluster follow the link -> [Yarn](https://sparkbyexamples.com/hadoop/yarn-setup-and-run-map-reduce-program/)
 
-Third install Spark with pdf adove or follow the link -> [Spark](https://sparkbyexamples.com/spark/spark-setup-on-hadoop-yarn/)
+Finally, install Spark with pdf adove or follow the link -> [Spark](https://sparkbyexamples.com/spark/spark-setup-on-hadoop-yarn/)
 
 ## How to run (with 2 workers)
 
