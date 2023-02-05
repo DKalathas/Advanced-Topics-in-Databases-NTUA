@@ -2,7 +2,7 @@
 
 ## Installation
 
-Firt of all, you must have a local network with 2 or more vms connected.
+Firts of all, you must have a local network with 2 or more vms connected.
 
 For Installation Hadoop and Spark follow the steps:
 
