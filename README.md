@@ -27,9 +27,7 @@ start-dfs.sh
 ```bash
 start-master.sh
 ```
-3.Upload data in Hadoop Distributed File System (HDFS):
-
-example for one
+3.Upload data in Hadoop Distributed File System (HDFS), according to the example below:
 
 ```bash
 hadoop fs -put ./yellow_tripdata_2022-01.parquet hdfs://master:9000/par/yellow_tripdata_2022-01.parquet
@@ -39,9 +37,7 @@ hadoop fs -put ./yellow_tripdata_2022-01.parquet hdfs://master:9000/par/yellow_t
 ```bash
 start-worker.sh spark://192.168.0.2:7077
 ```
-5.Start a worker in slave:
-
-inside master vm
+5.Start a worker in slave by typing the following instructions in the master vm:
 
 ```bash
 ssh (slave vm connection string)
@@ -50,9 +46,7 @@ ssh (slave vm connection string)
 start-worker.sh spark://192.168.0.2:7077
 ```
 
-6.Submit task in Spark environment:
-
-go back in master vm in directory of python file 
+6.Submit the task in Spark environment (in the master vm and in the directory of the file):
 
 ```bash
 spark-submit (filename)
@@ -60,7 +54,7 @@ spark-submit (filename)
 
 7.Results
 
-See the results in terminal 
+See the results in the terminal 
 
 ### Team members:
 
